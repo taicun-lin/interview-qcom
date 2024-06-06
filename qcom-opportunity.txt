@@ -1,0 +1,8 @@
+-To support startups/developers to develop products/services based on various Qualcomm platforms including AI PC and IoT 
+-Product/feature development, software integration, testing, debugging and performance tuning and optimization
+-To communicate across teams internally and externally on technical related topics and issues
+
+
+Tensorflow/Pytorch/ONNX
+
+Linux/Android/Windows
